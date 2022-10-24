@@ -1,0 +1,19 @@
+{
+	id: "10850b19-9c18-4fa6-b0eb-ddc043e34d8b"
+	type: "player"
+	player_name: "thenerveux02"
+	ranks: {
+		10850b19-9c18-4fa6-b0eb-ddc043e34d8b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "thenerveux02"
+		"ftbteams:color": "#8559FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
